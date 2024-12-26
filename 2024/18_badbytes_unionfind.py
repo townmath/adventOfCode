@@ -1,5 +1,5 @@
 
-inFile=open("18_union.txt",'r')
+inFile=open("18_test.txt",'r')
 maxDim=6#70#
 maxBytes=12#1024#
 
